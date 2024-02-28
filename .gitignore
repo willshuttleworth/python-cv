@@ -1,0 +1,7 @@
+*.py
+!get_num.py
+
+scale.mov
+*.jpg
+*.png
+*.txt
